@@ -1,1 +1,0 @@
-https://datascience.stackexchange.com/questions/32233/trouble-with-accuracy-of-multiclass-perceptron
